@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Competitive programming, Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://zihad-tech-showcase.lovable.app](https://zihad-tech-showcase.lovable.app)
+- 👨‍💻 All of my projects are available at https://zihadportfolio.netlify.app
 
 - 📫 How to reach me **mdjillur.zihad@gmail.com**
 
